@@ -15,3 +15,6 @@ If you don't find your favorite programming language's directory, feel free to c
 Updates to this README are also appreciated.
 
 You can also contact me if you have any issues.
+
+### Contributors
+- zainbinfurqan
